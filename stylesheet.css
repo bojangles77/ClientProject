@@ -1,0 +1,32 @@
+.navbar-nav {
+  float: none;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+.navbar-nav > li {
+  display: inline-block;
+  float: none;
+}
+
+#jumbocenter {
+  text-align: center;
+}
+
+#preview {
+  text-align: center;
+  text-decoration: underline;
+  font-family: "VT323", monospace;
+}
+
+.card {
+  float: none;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+}
+
+#NewFont {
+  font-family: "VT323", monospace;
+}
